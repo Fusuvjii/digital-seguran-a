@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilos.css">
-    <title>Segurança</title>
-</head>
-<body>
-    <h1>Segurança em Primeiro Lugar</h1>
-    <p>É fundamental garantir a segurança de todos os dados e informações. Siga as melhores práticas para proteger suas informações.</p>
-    <a href="#" class="button">Saiba Mais</a>
-</body>
-</html>
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
